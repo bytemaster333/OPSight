@@ -1,0 +1,9 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'opsight-node'
+    static_configs:
+      - targets: ['localhost:9100']  # Local Linux metrics
+      # Future: Add Optimism Node target here
+      # - targets: ['localhost:7300'] # OP-Node metrics port
