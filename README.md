@@ -36,7 +36,7 @@ Our goal is to bring the same level of tooling maturity to the Superchain ecosys
 | Project | Ecosystem | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **[ArbiSight](https://github.com/bytemaster333/Arbisight)** | **Arbitrum** | AI-powered log analysis and observability tool for Arbitrum nodes. Winner of the **Arbitrum DAO Grant**. | ✅ **Completed** |
-| **[Stellar Soroban Monitor](BURAYA_STELLAR_LINKINI_KOY)** | **Stellar** | Security and transaction analysis tool for Soroban smart contracts. | ✅ **Completed** |
+| **[Stellar Soroban Monitor](https://github.com/bytemaster333/stellar-command-insights-release)** | **Stellar** | Security and transaction analysis tool for Soroban smart contracts. | ✅ **Completed** |
 
 *(Note: Please check my GitHub profile for the Stellar project details.)*
 
